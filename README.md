@@ -1,8 +1,8 @@
-### Olá 👋 Luciano Piantavigna Rosa aqui!
+## Olá 👋 Luciano Piantavigna Rosa aqui!
 
-🔭 Trabalho como desenvolvedor front-end a 4 anos.
-🌱 Atualmente estou participando do bootcamp Dio Potencia Tech ifood - Programação do Zero.
-👯 Fiz minha primeira contribuição em um projeto Open Source da plataforma DIO.
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como desenvolvedor front-end a 4 anos.
+- 🌱 Atualmente estou participando do bootcamp Dio Potencia Tech ifood - Programação do Zero.
+- 👯 Fiz minha primeira contribuição em um projeto Open Source da plataforma DIO.
 
 ## 🤝 Conecte-se Comigo
 
