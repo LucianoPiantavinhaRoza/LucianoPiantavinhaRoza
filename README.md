@@ -43,6 +43,13 @@ Aqui estão as minhas contribuições para projetos Open Source e os meus projet
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=calculadora-partidas-ranqueadas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=classificador-nivel-heroi&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=classe-de-um-jogo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+
 <!--
 **LucianoPiantavinhaRoza/LucianoPiantavinhaRoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
