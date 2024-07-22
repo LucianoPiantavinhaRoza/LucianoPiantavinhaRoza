@@ -10,7 +10,7 @@ Se quer me encontrar, essas são as minhas principais redes socias para contato 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-p-863040193/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoPiantavinhaRoza)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/LucianoPiantavinhaRoza)
 
 
 ## 📚 Habilidades
@@ -23,7 +23,11 @@ Essas são as habilidades que já aprendi nesses anos de carreira como Desenvolv
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![jQuerry](https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+![AngularJS](https://img.shields.io/badge/AngularJS-B52E31?style=for-the-badge&logo=angular&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/boostrap-563D7C?style=for-the-badge&logo=bootstrap&labelColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
