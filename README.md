@@ -17,19 +17,19 @@ Se quer me encontrar, essas são as minhas principais redes socias para contato 
 
 Essas são as habilidades que já aprendi nesses anos de carreira como Desenvolvedor Front-End. Mas essa lista sempre estará em constante atualização!!!
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![jQuerry](https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuerry](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-![AngularJS](https://img.shields.io/badge/AngularJS-B52E31?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/angularjs-B52E31?style=for-the-badge&logo=angular&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/boostrap-563D7C?style=for-the-badge&logo=bootstrap&labelColor=white)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 📊 Meus Status
