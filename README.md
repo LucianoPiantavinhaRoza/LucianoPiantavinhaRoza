@@ -1,7 +1,9 @@
 # Olá 👋 Luciano Piantavigna Rosa aqui!
 
 - 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Desenvolvedor Front-End a 4 anos.
-- 🌱 Atualmente eu conclui o bootcamp DIO Potência Tech iFood - Programação do Zero e já vou me inscrever em outro.
+- 🌱 Conclui o bootcamp DIO Potência Tech iFood - Programação do Zero.
+- 🌱 Conclui a Formação HTML Web Developer na DIO.
+- 🌱 Estou finalizando a Formação CSS Web Developer da DIO.
 - 👯 Fiz minha primeira contribuição em um projeto Open Source durante o bootcammp da plataforma DIO.
 
 ## 🤝 Conecte-se Comigo
@@ -29,7 +31,10 @@ Gosto muito de métricas, então, aqui estão algumas delas sobre min.
 
 Aqui estão as minhas contribuições para projetos Open Source e os meus projetos pessoais que considero mais relevante para a minha carreira!
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=pagina-html-basica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=desafio-clinica-medica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=desafio-pagina-wikipedia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=desafio-clinica-medica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=desafio-pagina-wikipedia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoPiantavinhaRoza&repo=trilha-css-desafio-01&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+
+
 
 
 <!--
